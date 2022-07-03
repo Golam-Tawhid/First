@@ -1,5 +1,4 @@
 # First
-This is just for practice.
 class Author:
   def __init__(self,nm="Default",*bk):
     self.name=nm
